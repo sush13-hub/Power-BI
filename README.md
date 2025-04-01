@@ -12,12 +12,12 @@ Sum of Cost: 385K
 
 Sum of Profit: 399K
 
-# Filters and Controls:
+## Filters and Controls:
 Order Date Filter: A date range slider allows selection between January 1, 2017 – November 7, 2019
 
 Ship Mode Filter: Different shipping modes (Economy, Economy Plus, Immediate, Priority)
 
-# Visual Representations:
+## Visual Representations:
 Sales, Cost, and Profit Table: Displays details of customers and their corresponding sales, cost, and profit values.
 
 Sales by Sub-Category: A bar chart comparing sum of sales, profit, and quantity across product sub-categories.
@@ -28,7 +28,7 @@ Sum of Quantity by Region: A pie chart categorizing order quantity by regions (C
 
 Order Count Over Time: A line chart tracking order count across 2017-2019, showing seasonal trends in sales.
 
-# Observations & Insights:
+## Observations & Insights:
 Sales and profit trends vary significantly across sub-categories, with Bookshelves having the highest sales.
 
 The line chart suggests fluctuations in order count, with noticeable peaks in certain quarters.
