@@ -2,6 +2,9 @@
 
 This Power BI dashboard, titled "SN Corp Dashboard," provides an overview of sales, costs, and profits for a company, with various interactive visualizations. Here are the key insights:
 
+****![Uploading image.png…]()
+
+
 ## Key Metrics:
 Sum of Sales: 783.8K
 
